@@ -1,2 +1,13 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+        }
+        #counter {
+            margin-top: 10px;
+        }
